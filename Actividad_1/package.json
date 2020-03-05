@@ -1,0 +1,22 @@
+{
+  "name": "actividad1",
+  "version": "1.0.0",
+  "description": "test de imagenes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "Gonzalo Cano",
+  "license": "ISC",
+  "dependencies": {
+    "cool-images": "^1.0.3",
+    "moment": "^2.24.0"
+  }
+}
