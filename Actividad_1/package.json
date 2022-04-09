@@ -17,6 +17,6 @@
   "license": "ISC",
   "dependencies": {
     "cool-images": "^1.0.3",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
